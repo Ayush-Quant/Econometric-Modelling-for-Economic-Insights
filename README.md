@@ -37,9 +37,7 @@ ecotrix_final.py: Python script containing the code for data preprocessing, regr
 
 Econometric-Modelling-for-Economic-Insights.pdf: Detailed report documenting the methodology, findings, and conclusions.
 
-🛠️ Technologies Used
-
-Python Libraries:
+Python Libraries Used:
 
 pandas, numpy, seaborn, matplotlib for data handling and visualization.
 
