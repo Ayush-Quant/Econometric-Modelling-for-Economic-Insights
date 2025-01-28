@@ -1,4 +1,5 @@
 **Title  - Econometric Modelling for Economic Insights: Predicting GNI Using Financial Inclusion Indicators.**
+
 This project analyzes the relationship between financial inclusion indicators and a country's Gross National Income (GNI) using econometric modeling. By leveraging regression techniques, the project identifies key predictors of GNI, providing insights into how financial access contributes to economic growth.
 
 🚀 **Project Overview**
@@ -17,9 +18,9 @@ Feature selection using stepwise regression.
 
 Analysis of residuals, multicollinearity, and heteroscedasticity.
 
-📊 Dataset
+📊 **Dataset**
 
-Source: The dataset is sourced from the World Bank DataBank.
+**Source**: The dataset is sourced from the World Bank DataBank.
 
 **Variables:**
 **Dependent Variable**: Gross National Income (GNI).
@@ -46,7 +47,9 @@ scikit-learn for imputation and scaling.
 **Result and Findings:**
 
 Financial inclusion metrics like labor force participation and primary education strongly influence GNI.
+
 Gender disparities and income inequalities impact financial access and, consequently, economic outcomes.
+
 The regression model highlights significant variables but acknowledges limitations due to low R-squared values.
 
 
