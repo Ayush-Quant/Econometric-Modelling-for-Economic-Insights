@@ -22,6 +22,9 @@ Analysis of residuals, multicollinearity, and heteroscedasticity.
 
 **Source**: The dataset is sourced from the World Bank DataBank.
 
+https://docs.google.com/spreadsheets/d/1nF5tMBvimmPv3_4b9BFQ4YdkDwRIciGK/edit?usp=sharing&ouid=117408249352149101367&rtpof=true&sd=true
+
+
 **Variables:**
 **Dependent Variable**: Gross National Income (GNI).
 
